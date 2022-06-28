@@ -9,7 +9,6 @@ phases:
   build:
     commands:
     - echo "hello"
-    - npm run build
 
 artifacts:
   files:
