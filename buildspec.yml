@@ -9,9 +9,3 @@ phases:
   build:
     commands:
     - echo "hello"
-
-artifacts:
-  files:
-    - "**/*"
-  discard-paths: no
-  base-directory: build
